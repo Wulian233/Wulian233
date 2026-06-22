@@ -1,4 +1,4 @@
-👋 Hi, I'm Wulian (literally means “covering face” in Chinese). I’m currently an 18-year-old high school student. My real name is **Jiahao Li (李佳昊)**.
+👋 Hi, I'm Wulian (literally means “covering face” in Chinese). My real name is Jiahao Li, 18.
 
 My main focus is on Minecraft Chinese localization and Python development.
 
@@ -7,13 +7,12 @@ All my programming work is driven by pure interest. I’m a Minecraft modder wit
 I also serve as a co-lead of the [@VM Chinese Translation Group](https://github.com/VM-Chinese-translate-group) , currently the largest non-profit Minecraft Chinese localization group, and I'm the developer of its official website.
 You can learn more about us [here](https://vmct-cn.top/).
 
-### 🚀 Open Source
+### Open Source
 
-* **[CPython](https://github.com/python/cpython/pulls/Wulian233)**: 60+ merged PRs
-  Recently focusing on JIT
+* **[CPython](https://github.com/python/cpython/pulls/Wulian233)**: Recently focusing on JIT
 * **[HMCL](https://github.com/HMCL-dev/HMCL) (Minecraft Launcher)**: 30+ merged PRs
 
-### 🛠 My Open Source Projects
+### Projects
 
 * [hidpi-tk](https://github.com/Wulian233/hidpi-tk)
   A Python library that fixes blurry Tkinter GUIs on high-DPI displays
@@ -21,7 +20,7 @@ You can learn more about us [here](https://vmct-cn.top/).
 * [mcmod-translation-dict](https://github.com/Wulian233/mcmod-translation-dict)
   A high-quality Chinese translation dictionary website for Minecraft mods, designed to improve localization efficiency
 
-### 🌐 Platforms
+### Platforms
 
 <p>
     <a href="https://modrinth.com/user/Wulian233">
