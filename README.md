@@ -1,8 +1,8 @@
-👋 Hi, I'm Wulian (literally means “covering face” in Chinese). My real name is Jiahao Li, 18.
+👋 Hi, I'm Wulian (literally means “covering face” in Chinese). My real name is Jiahao Li, 19
 
 My main focus is on Minecraft Chinese localization and Python development.
 
-All my programming work is driven by pure interest. I’m a Minecraft modder with **over 6M+** total downloads across my projects.
+All my programming work is driven by pure interest. I’m a Minecraft modder with **over 8M+** total downloads across my projects.
 
 I also serve as a co-lead of the [@VM Chinese Translation Group](https://github.com/VM-Chinese-translate-group) , currently the largest non-profit Minecraft Chinese localization group, and I'm the developer of its official website.
 You can learn more about us [here](https://vmct-cn.top/).
